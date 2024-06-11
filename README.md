@@ -9,19 +9,6 @@ Clone the project:
 git clone https://github.com/Enki013/Cinema_Ticket_Automation.git
 ```
 
-Open the project with Visual Studio and load the `SinemaTakip.sln` file.
-
-## Usage
-To run the application, use the `Main` method in the `Program.cs` file:
-```csharp
-static void Main()
-{
-    Application.EnableVisualStyles();
-    Application.SetCompatibleTextRenderingDefault(false);
-    Application.Run(new AnaSayfa());
-}
-```
-
 ## Project Structure
 The project consists of the following files and folders:
 - `Main.cs`: Main form file.
